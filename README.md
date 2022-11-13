@@ -1,1 +1,3 @@
-# repo-exercise
+Hawi Girmachew
+Ethiopia
+Version Control
